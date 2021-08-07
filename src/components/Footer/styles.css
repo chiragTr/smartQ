@@ -1,0 +1,12 @@
+.Footer {
+  border: 1px solid;
+  height: 60px;
+  padding: 10px;
+  display: flex;
+}
+
+.Footer button {
+  flex-grow: 1;
+  margin: 10px;
+  cursor: pointer;
+}

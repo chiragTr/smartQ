@@ -1,0 +1,12 @@
+.header {
+  height: 60px;
+  display: block;
+  border: 1px solid;
+  margin: 0px;
+}
+
+.header input {
+  height: 58px;
+  width: 50%;
+  border-width: 0px 1px 0px 1px;
+}
